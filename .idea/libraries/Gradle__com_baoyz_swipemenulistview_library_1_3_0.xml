@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: com.baoyz.swipemenulistview:library-1.3.0">
     <CLASSES>
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-1.3.0.aar/2496f1ef8c01ed716ced609dc5572225/res" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-1.3.0.aar/2496f1ef8c01ed716ced609dc5572225/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-1.3.0.aar/7a96c8a4c306fcfeae918b69d1397a2a/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-1.3.0.aar/7a96c8a4c306fcfeae918b69d1397a2a/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
